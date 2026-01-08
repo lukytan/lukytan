@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lukytan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, NodeJS
+- 🌱 I’m currently learning Python, NodeJS, C#
 - ⚡ Fun fact: Coding is Complicated
